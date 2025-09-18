@@ -4,10 +4,10 @@ author 'Kacza'
 description 'Kz-houserobbery'
 lua54 'yes'
 
-server_script 'server.lua'
+server_script 'server/server.lua'
 
 
-client_script 'client.lua'
+client_script 'client/client.lua'
     
 
 
