@@ -130,7 +130,7 @@ AddEventHandler('kz_houserobery:startrobbery', function()
                 name = 'opendoor',
                 serverEvent = 'kz_houserobery:checkitem',
                 icon = 'fa-solid fa-circle',
-                label = Config.Text.lockpick,
+                label = Config.Text.Lockpick,
                 canInteract = function() return start end
             }}
         })
