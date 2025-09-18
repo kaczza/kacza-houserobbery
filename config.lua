@@ -10,7 +10,7 @@ Config.Lastrob = 0 -- DON'T TOUCH
 
 Config.Ped = {
     Name = "a_m_y_business_03",
-    Pos = {x = -3075.1641, y = 655.5101, z = 11.6596, h = 312.0332}
+    Pos = {x = -3075.1641, y = 655.5101, z = 10.6596, h = 312.0332}
     
 }   
 
