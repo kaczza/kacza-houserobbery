@@ -1,5 +1,6 @@
 # kacza-houserobbery
-- Free and simple for Rp servers
+- Free and simple
+- For Rp servers
 - Only for ESX
 ## Video Showcase
 - Uploading soon!!
@@ -12,6 +13,7 @@
 - LockPick system with minigame
 - Searching House and find rare items
 - You can add more items
+- Global cooldown
 ## Dependencies
 - [ox_target](https://github.com/overextended/ox_target)
 
@@ -27,3 +29,4 @@ ensure kz-houserobbery
 ![image](https://cdn.discordapp.com/attachments/1334282394898923607/1418331486872010752/image.png?ex=68cdbba1&is=68cc6a21&hm=15d45e556a4a57dddb9d8140019f0904b8fa33cb79badbbb6b7c52302cfb83e2&)
 ![image](https://cdn.discordapp.com/attachments/1334282394898923607/1418331702404845650/image.png?ex=68cdbbd5&is=68cc6a55&hm=718f9f1ec87b740fe05b0946bff75e87b9d4856b78434d3b333eb8d6fc75881f&)
 ![image](https://cdn.discordapp.com/attachments/1334282394898923607/1418331881279324312/image.png?ex=68cdbbff&is=68cc6a7f&hm=7580c6395bfe1ceefaafaeadfebf368060f7cf4526c4e6b1d63f3338a42fa9b2&)
+
