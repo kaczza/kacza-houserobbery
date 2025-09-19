@@ -6,7 +6,7 @@ Config.ItemRequired = "lockpick"
 Config.BlipEnabled = true
 Config.CopsRequired = 0
 Config.Cooldown = 120 
-Config.Lastrob = 0 -- DON'T TOUCH
+
 
 Config.Ped = {
     Name = "a_m_y_business_03",
